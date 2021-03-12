@@ -1,2 +1,10 @@
 discord==1.0.1
 discord.py==1.4.0
+pip sqlite3
+pip datetime
+pip asyncio
+pip configparser
+pip os
+pip json
+pip string
+pip random
