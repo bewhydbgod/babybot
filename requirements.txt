@@ -1,6 +1,6 @@
 discord==1.0.1
 discord.py==1.4.0
-pip sqlite
+sqlite.py
 pip datetime
 pip asyncio
 pip configparser
